@@ -1,0 +1,17 @@
+{
+  "name": "jwt-implementation-demo",
+  "version": "1.0.0",
+  "description": "A demo app to implemnt jwt the right way",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sujeet Agrahari",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.10.4",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "uuid": "^8.3.2"
+  }
+}
